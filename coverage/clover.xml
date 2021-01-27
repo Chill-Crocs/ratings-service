@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1611595623606" clover="3.2.0">
-  <project timestamp="1611595623606" name="All files">
+<coverage generated="1611771490768" clover="3.2.0">
+  <project timestamp="1611771490768" name="All files">
     <metrics statements="104" coveredstatements="97" conditionals="24" coveredconditionals="15" methods="30" coveredmethods="27" elements="158" coveredelements="139" complexity="0" loc="104" ncloc="104" packages="2" files="6" classes="6"/>
     <package name="client.components">
       <metrics statements="84" coveredstatements="77" conditionals="24" coveredconditionals="15" methods="26" coveredmethods="23"/>
-      <file name="App.jsx" path="/home/eagerbeaver/hackreactor/immersive/fec/ratings-service/client/components/App.jsx">
+      <file name="App.jsx" path="/home/eagerbeaver/hackreactor/immersive/fec/etsy_clone/reviews-service/client/components/App.jsx">
         <metrics statements="40" coveredstatements="33" conditionals="6" coveredconditionals="1" methods="12" coveredmethods="9"/>
         <line num="12" count="1" type="stmt"/>
         <line num="14" count="1" type="stmt"/>
@@ -47,7 +47,7 @@
         <line num="100" count="4" type="stmt"/>
         <line num="124" count="2" type="stmt"/>
       </file>
-      <file name="Dropdown.jsx" path="/home/eagerbeaver/hackreactor/immersive/fec/ratings-service/client/components/Dropdown.jsx">
+      <file name="Dropdown.jsx" path="/home/eagerbeaver/hackreactor/immersive/fec/etsy_clone/reviews-service/client/components/Dropdown.jsx">
         <metrics statements="19" coveredstatements="19" conditionals="12" coveredconditionals="11" methods="8" coveredmethods="8"/>
         <line num="6" count="1" type="stmt"/>
         <line num="8" count="1" type="stmt"/>
@@ -69,7 +69,7 @@
         <line num="51" count="4" type="stmt"/>
         <line num="78" count="3" type="stmt"/>
       </file>
-      <file name="Pagination.jsx" path="/home/eagerbeaver/hackreactor/immersive/fec/ratings-service/client/components/Pagination.jsx">
+      <file name="Pagination.jsx" path="/home/eagerbeaver/hackreactor/immersive/fec/etsy_clone/reviews-service/client/components/Pagination.jsx">
         <metrics statements="10" coveredstatements="10" conditionals="6" coveredconditionals="3" methods="3" coveredmethods="3"/>
         <line num="4" count="2" type="stmt"/>
         <line num="13" count="1" type="stmt"/>
@@ -82,7 +82,7 @@
         <line num="50" count="2" type="stmt"/>
         <line num="57" count="2" type="stmt"/>
       </file>
-      <file name="Rating.jsx" path="/home/eagerbeaver/hackreactor/immersive/fec/ratings-service/client/components/Rating.jsx">
+      <file name="Rating.jsx" path="/home/eagerbeaver/hackreactor/immersive/fec/etsy_clone/reviews-service/client/components/Rating.jsx">
         <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
         <line num="4" count="4" type="stmt"/>
         <line num="5" count="1" type="stmt"/>
@@ -90,7 +90,7 @@
         <line num="19" count="4" type="stmt"/>
         <line num="23" count="4" type="stmt"/>
       </file>
-      <file name="ReviewList.jsx" path="/home/eagerbeaver/hackreactor/immersive/fec/ratings-service/client/components/ReviewList.jsx">
+      <file name="ReviewList.jsx" path="/home/eagerbeaver/hackreactor/immersive/fec/etsy_clone/reviews-service/client/components/ReviewList.jsx">
         <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
         <line num="8" count="3" type="stmt"/>
         <line num="9" count="2" type="stmt"/>
@@ -106,14 +106,14 @@
     </package>
     <package name="database">
       <metrics statements="20" coveredstatements="20" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
-      <file name="helpers.js" path="/home/eagerbeaver/hackreactor/immersive/fec/ratings-service/database/helpers.js">
+      <file name="helpers.js" path="/home/eagerbeaver/hackreactor/immersive/fec/etsy_clone/reviews-service/database/helpers.js">
         <metrics statements="20" coveredstatements="20" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
         <line num="1" count="1" type="stmt"/>
         <line num="3" count="1" type="stmt"/>
         <line num="4" count="100" type="stmt"/>
         <line num="5" count="100" type="stmt"/>
         <line num="6" count="100" type="stmt"/>
-        <line num="7" count="2271" type="stmt"/>
+        <line num="7" count="2211" type="stmt"/>
         <line num="20" count="100" type="stmt"/>
         <line num="23" count="1" type="stmt"/>
         <line num="24" count="100" type="stmt"/>
